@@ -1,4 +1,4 @@
-* xref:index.adoc[The Longhorn Documentation]
+* xref:_index.adoc[The Longhorn Documentation]
 * xref:advanced-resources/_index.adoc[Advanced Resources]
 * xref:advanced-resources/backing-image/_index.adoc[Backing Image]
 * xref:advanced-resources/backing-image/backing-image.adoc[Backing Image]

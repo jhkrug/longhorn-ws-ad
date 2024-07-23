@@ -2,6 +2,6 @@ name: longhorn-ws-ad
 title: Longhorn documentation
 version: main
 display_version: 'main'
-start_page: ROOT:i.adoc
+start_page: ROOT:_index.adoc
 nav:
 - modules/ROOT/nav.adoc
