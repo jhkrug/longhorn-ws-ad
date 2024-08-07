@@ -1,6 +1,7 @@
 = Install with Kubectl
 :description: Install Longhorn with the kubectl client.
 :weight: 8
+:current-version: {page-origin-branch}
 
 == Prerequisites
 
